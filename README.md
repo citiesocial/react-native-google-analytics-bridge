@@ -469,3 +469,4 @@ Push a DataLayer event for Google Analytics through Google Tag Manager.
 GoogleTagManager.pushDataLayerEvent({event: "eventName", pageId: "/home"})
 .then((success) => console.log(success));
 ```
+<26a0>️ 這個是Citiesocial 舊版 APP 專用的模組 ，如果不是使用舊版APP，請勿取用
